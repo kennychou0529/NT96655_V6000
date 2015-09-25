@@ -1,0 +1,138 @@
+In file included from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_3DNR.c:1:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/../../../DRIVER_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/../../../DRIVER_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from f:/FWproject/jacky_all_case/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from f:/FWproject/jacky_all_case/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupFormat.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuPlay/../../../D800x480/UIFlow.h:21,
+                 from f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuPlay/UIMenuWndPlayDel.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuPlay/../../../D800x480/UIFlow.h:21,
+                 from f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuPlay/UIMenuWndPlayDel.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from d:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from d:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+d:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+d:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+d:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+d:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+d:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:134: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:134: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:134: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:134: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:134: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:134: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:134: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:134: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:134: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:134: warning: implicit declaration of function 'SysSetNZHCarNoStamp'

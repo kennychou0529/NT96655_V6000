@@ -1,0 +1,200 @@
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:42,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/Calibration/../UIWnd/DRIVER_TOUCH_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/Calibration/CalibrationAPI.c:32:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:42,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/Calibration/../UIWnd/DRIVER_TOUCH_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/Calibration/CalibrationTbl.c:31:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:42,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/Calibration/../UIWnd/DRIVER_TOUCH_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/Calibration/CalibrationInt.c:27:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/Calibration/../UIWnd/DRIVER_TOUCH_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/Calibration/CalibrationAPI.c:32:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/Calibration/../UIWnd/DRIVER_TOUCH_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/Calibration/CalibrationTbl.c:31:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/Calibration/../UIWnd/DRIVER_TOUCH_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/Calibration/CalibrationInt.c:27:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:2:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIApp/Movie/UIAppMovie_Exe.c:31:
+../../Include/DrvExt/GSensor/GSensor.h:118: warning: function declaration isn't a prototype
+../../Include/DrvExt/GSensor/GSensor.h:119: warning: function declaration isn't a prototype
+../../Include/DrvExt/GSensor/GSensor.h:120: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIApp/Photo/UIAppPhoto_Exe.c:15:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/../../../DRIVER_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupFormatConfirm.c:14:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/../../../DRIVER_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupFormatConfirm.c:14:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/Resource/UIResource.h:3,
+                 from ./SrcCode/UI/UIGraphics.h:4,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:5:
+./SrcCode/prjcfg.h:75: warning: "_MODEL_DUAL_V18_GMD_" is not defined
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/../../../DRIVER_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:134: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/Resource/UIResource.h:3,
+                 from ./SrcCode/UI/UIGraphics.h:4,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:5:
+./SrcCode/prjcfg.h:75: warning: "_MODEL_DUAL_V18_GMD_" is not defined
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/../../../DRIVER_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:134: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/../../../DRIVER_800x480/UIFlow.h:21,
+                 from e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:97: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+e:/PARTNERWIN_/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/DRIVER_800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:134: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from f:/FWproject/jacky_all_case/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuPhoto/../../../D800x480/UIFlow.h:21,
+                 from f:/FWproject/jacky_all_case/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuPhoto/UIMenuWndPhotoColor.c:13:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from f:/FWproject/jacky_all_case/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from f:/FWproject/jacky_all_case/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCarNumber.c:10:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+f:/FWproject/jacky_all_case/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCarNumber.c: In function 'UIMenuWndSetupCarNumber_OnOpen':
+f:/FWproject/jacky_all_case/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCarNumber.c:111: warning: implicit declaration of function 'SysGetZHCarNoStamp'
+f:/FWproject/jacky_all_case/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCarNumber.c:111: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+f:/FWproject/jacky_all_case/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCarNumber.c: In function 'UIMenuWndSetupCarNumber_OnKeyShutter2':
+f:/FWproject/jacky_all_case/NT9665x_CarDV_FW_20150122_PW84/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupCarNumber.c:165: warning: implicit declaration of function 'SysSetZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/../../../DRIVER/UIFlow.h:21,
+                 from f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:91: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:91: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:128: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/../../../DRIVER/UIFlow.h:21,
+                 from f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:91: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:91: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:128: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/../../../DRIVER/UIFlow.h:21,
+                 from f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:11:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnOpen':
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:91: warning: implicit declaration of function 'SysGetNZHCarNoStamp'
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:91: warning: passing argument 2 of 'strncpy' makes pointer from integer without a cast
+../../Include/Common/LibC/string.h:7: note: expected 'const char *' but argument is of type 'int'
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c: In function 'UIMenuWndSetupCommonCarNumber_OnKeyShutter2':
+f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/DRIVER/UIMenu/UIMenuSetup/UIMenuWndSetupCommonCarNumber.c:128: warning: implicit declaration of function 'SysSetNZHCarNoStamp'
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/D800x480/UIFlow/UIFlowPlay/../../../D800x480/UIFlow.h:21,
+                 from f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/D800x480/UIFlow/UIFlowPlay/UIFlowPlayIcons.c:21:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/D800x480/UIFlow/UIFlowPlay/../../../D800x480/UIFlow.h:21,
+                 from f:/NT9665x_CarDV_FW_20150122_PW84_V6/Project/DemoKit/SrcCode/UIWnd/D800x480/UIFlow/UIFlowPlay/UIFlowPlayFuncs.c:7:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from d:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from d:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
+In file included from ./SrcCode/UIApp/Movie/UIAppMovie.h:27,
+                 from ./SrcCode/System/AppCommon.h:51,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/../../../D800x480/UIFlow.h:21,
+                 from e:/NT96655_V6000/Project/DemoKit/SrcCode/UIWnd/D800x480/UIMenu/UIMenuSetup/UIMenuWndSetupDefaultSetting.c:12:
+../../Include/DrvExt/GPS/GPS.h:276: warning: function declaration isn't a prototype
